@@ -29,6 +29,8 @@ node {
    echo 'Compilando aplicación'
    sh 'mvn clean compile'
    
+   
+   
    // ------------------------------------
    // -- ETAPA: Test
    // ------------------------------------
